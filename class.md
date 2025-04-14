@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Prity Kumari
+- Prity Kumari
 
 ## Instructions
 Please replace the placeholders with your details:
